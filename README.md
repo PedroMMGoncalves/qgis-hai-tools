@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.23925304"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23925304.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.23925303">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23925303.svg" alt="DOI">
+  </a>
   <img src="https://img.shields.io/badge/QGIS-4.x-589632?logo=qgis&logoColor=white" alt="QGIS 4.x">
   <img src="https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white" alt="Python 3">
   <img src="https://img.shields.io/badge/Qt-6-41CD52?logo=qt&logoColor=white" alt="Qt 6">
@@ -108,9 +110,19 @@ The current 500 m workflow should be considered experimental and validated befor
 
 ## Citation
 
-The first archived public release has DOI **10.5281/zenodo.23925304**.
+For a general citation of HAI Tools, use the project DOI:
 
-For reproducible research, cite the exact software version used in the analysis. Machine-readable citation metadata are available in `CITATION.cff`.
+**Goncalves, Pedro. HAI Tools for QGIS. Zenodo.**  
+**DOI:** https://doi.org/10.5281/zenodo.23925303
+
+For reproducible research, please cite the exact software version used in the analysis.
+
+Current version:
+
+**HAI Tools v0.3.1**  
+**DOI:** https://doi.org/10.5281/zenodo.23926838
+
+Machine-readable citation metadata are available in [`CITATION.cff`](CITATION.cff).
 
 ## License
 
