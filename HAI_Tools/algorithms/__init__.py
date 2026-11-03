@@ -1,1 +1,1 @@
-# HAI Tools Processing algorithms
+# HAI Tools algorithms

@@ -2,11 +2,10 @@
 name=HAI Tools
 qgisMinimumVersion=4.0
 qgisMaximumVersion=4.99
-version=0.1.0
+version=0.3.1
 author=Pedro Goncalves
-email=
-description=Processing tools for reconstructing monitoring transects and mapping Human Activity Index (HAI).
-about=HAI Tools provides QGIS Processing algorithms for attributed point-to-segment conversion and HAI aggregation to 500 m transect blocks. Designed for QGIS 4 / Qt6.
+description=QGIS Processing tools for monitoring transects and Human Activity Index mapping.
+about=Includes point-to-segment conversion, 500 m HAI aggregation, and reusable HAI symbology for QGIS 4 / Qt6.
 category=Vector
 tags=HAI,human activity index,transect,monitoring,biodiversity,processing
 homepage=https://github.com/PedroMMGoncalves/qgis-hai-tools
