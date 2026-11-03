@@ -2,14 +2,22 @@ cff-version: 1.2.0
 title: HAI Tools for QGIS
 message: "If you use this software, please cite the version used in your analysis."
 type: software
+
 authors:
   - family-names: Goncalves
     given-names: Pedro
+
 version: 0.3.1
 date-released: 2026-11-03
-license: GPL-3.0
+
+doi: 10.5281/zenodo.23926838
+
 repository-code: "https://github.com/PedroMMGoncalves/qgis-hai-tools"
+
+license: GPL-3.0
+
 abstract: "QGIS Processing tools for preparing environmental monitoring transects and mapping the Human Activity Index (HAI)."
+
 keywords:
   - QGIS
   - PyQGIS
